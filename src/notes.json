@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Delegation",
+    "content": "How many programmers does it take to change a lightbulb? A. None - It's a hardware problem"
+  },
+  {
+    "id": 2,
+    "title": "Loops",
+    "content": "Hower to keep a programmer in the shower forever? A. Show him the shampoo bottle instructions: Lather, Rinse, Repeat"
+  },
+  {
+    "id": 3,
+    "title": "Arrays",
+    "content": "Why did the programmer quit her job? A. Because she didn't get arrays"
+  },
+  {
+    "id": 4,
+    "title": "Hardware vs Software",
+    "content": "What is the difference between hardware and software? A. You can hit your hardware with a hammer but you can only curse your software"
+  }
+]
